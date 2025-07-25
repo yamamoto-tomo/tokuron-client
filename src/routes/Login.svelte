@@ -44,8 +44,8 @@
         </div>
         <div class="input-group">
             <input
-                type="assword"
-                placeholder="password"
+                type="password"
+                placeholder="Password"
                 bind:value={password}
                 required
             />
